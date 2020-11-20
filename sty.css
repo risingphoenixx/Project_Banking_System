@@ -1,0 +1,95 @@
+/* Add a  background color to the top navigation */
+.topnav {
+    background-color: #180b54;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #636966;
+  color: white;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}
+  .creator {
+text-decoration-color: white;
+padding:10px 10px;
+color: white;
+}
+.main-color {
+    background:lightslategray;
+}
+.rgba {
+    background: -moz-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+    background: linear-gradient(to 45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+  }
+.footcss {
+    background-color: black;
+}
+.all-links {
+    margin-bottom: 5px;
+    margin-left: 40px;
+}
+
+.header {
+    padding: 0%;
+    background: black;
+}
+/*customer*/
+.btn
+{
+	box-shadow:orange;
+	padding:10px 25px;
+	border:none;
+	background-image:linear-gradient(to right,black,grey)
+}
+.btn-primary
+{
+	box-shadow:none;
+	padding:10px 25px;
+	border:none;
+	background-image:linear-gradient(to right,black,purple)
+}
+.btn-secondary
+{
+	box-shadow:none;
+	padding:10px 25px;
+	border:none;
+	background-image:linear-gradient(to right,purple,black)
+}
+.grad {
+    background-image: linear-gradient(to right , purple, black);
+}
+.gradtransfer {
+    background-image: linear-gradient(to right ,purple, white);
+
+}
+.gradhistory {
+    background-image: linear-gradient(to right ,purple, orange);
+
+}
+
+  .articlem {
+      margin-top: 7%;
+     
+  }
